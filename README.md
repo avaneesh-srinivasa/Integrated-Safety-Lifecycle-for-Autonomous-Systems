@@ -1,2 +1,4 @@
 # Integrated-Safety-Lifecycle-for-Autonomous-Systems
 A view of the safety lifecycle integrating ISO 26262, ISO 21448 (SOTIF), and ISO 8800 for autonomous system safety.
+
+![ISO 26262 Work Product Flow](ISO26262-work-product-flow.png)
