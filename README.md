@@ -4,7 +4,7 @@ Summary: A view of the safety lifecycle integrating ISO 26262, ISO 21448 (SOTIF)
 
 ---
 
-Traditionally, automotive systems rely on ISO 26262 to define the functional safety lifecycle, covering state-of-the-art framework and methodology for reducing risk of hazards caused by malfunctioning of safety related Electrical/Electronic (E/E) systems. The following flowchart attempts to understand the traditional ISO 26262 safety lifecycle from a work product point of view. The flowchart paricularly captures the interactions between systems engineering, software, hardware, and functional safety work products (only the left side of the systems-V is represented). Note that the flowchart does not capture some of the interactions - for example, integration and testing efforts, verification reviews and confirmation reviews etc.
+Traditionally, automotive systems rely on ISO 26262 to define the functional safety lifecycle, covering state-of-the-art framework and methodology for reducing risk of hazards caused by malfunctioning of safety related Electrical/Electronic (E/E) systems. The following flowchart attempts to understand the traditional ISO 26262 safety lifecycle from a work product point of view. The flowchart particularly captures the interactions between systems engineering, software, hardware, and functional safety work products (only the left side of the systems-V is represented). Note that the flowchart does not capture some of the interactions - for example, integration and testing efforts, verification reviews and confirmation reviews etc.
 
 ![ISO 26262 Work Product Flow](ISO26262-work-product-flow.png)
 
